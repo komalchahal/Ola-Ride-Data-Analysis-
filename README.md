@@ -25,6 +25,7 @@ Power BI dashboards were created to visualize:
 - Revenue by payment method
 - Customer ratings by vehicle type
 - Top customers and most popular vehicle types
+  Project File Link - https://drive.google.com/drive/folders/1C45v0TlBc9kI47JT3HREyTfmKvLN4mpw?usp=sharing
 
 Conclusion
 
